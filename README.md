@@ -2,5 +2,5 @@
 
 My projects for freeCodeCamp's front end development libraries certification.
 
-[random-quote-machine](https://codepen.io/dxaviud/pen/bGqjYKd)
+[random-quote-machine](https://codepen.io/dxaviud/full/bGqjYKd)
 
